@@ -1,8 +1,6 @@
-### Hi there 👋
+<!-- **iamakbarsha1/iamakbarsha1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-**iamakbarsha1/iamakbarsha1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -11,9 +9,15 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 
-- 
+### Hi there 👋
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=iamakbarsha1&theme=github-dark&border_radius=5)](https://git.io/streak-stats)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 [![Akbarsha's github stats](https://github-readme-stats.vercel.app/api?username=iamakbarsha1&show_icons=true&theme=transparent)](https://github.com/TheShubham-K/github-readme-stats)
 
 <!-- # What is this?
