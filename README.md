@@ -16,9 +16,29 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=iamakbarsha1&theme=github-dark&border_radius=5)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
+<!-- ```txt
+Markdown     47 mins         ██████████▓░░░░░░░░░░░░░░   42.58 %
+HTML         26 mins         ██████░░░░░░░░░░░░░░░░░░░   24.23 %
+JSON         18 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.88 %
+Other        9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
+Go           8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 %
+``` -->
+
 <!--END_SECTION:waka-->
 
 [![Akbarsha's github stats](https://github-readme-stats.vercel.app/api?username=iamakbarsha1&show_icons=true&theme=transparent)](https://github.com/TheShubham-K/github-readme-stats)
+
+
+<!-- * * * ? * *    Every second
+
+0 * * ? * *    Every minute
+
+0 0 13 * * ?  At 13:00:00pm every day
+
+0 0 */6 ? * *  Every six hours
+
+0 0 * ? * *    Every hour -->
+
 
 <!-- # What is this?
 
