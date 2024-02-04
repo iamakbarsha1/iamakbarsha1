@@ -53,11 +53,6 @@ jobs:
           SHOW_MASKED_TIME: false # optional
           STOP_AT_OTHER: true # optional
           IGNORED_LANGUAGES: YAML TOML # optional - JSON
-          # EXTRAS
-          SHOW_OS: true
-          SHOW_LANGUAGE: true
-          SHOW_PROJECTS: true
-          SHOW_LOC_CHART: true
           ### commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
           TARGET_BRANCH: main # optional
@@ -65,5 +60,15 @@ jobs:
           COMMITTER_NAME: GitHubActionBot # optional
           COMMITTER_EMAIL: action-bot@github.com # optional
           AUTHOR_NAME: Akbarsha # optional
-          AUTHOR_EMAIL: ${{ secrets.MY_EMAIL }} # optional
+          AUTHOR_EMAIL: ${{ secrets.MY_EMAIL }}, # optional
           # you can populate email-id with secretes instead
+
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SECTION_NAME: waka_tw
+          SHOW_OS: "True"
+          SHOW_LANGUAGE: "True"
+          SHOW_PROJECTS: "True"
+          SHOW_LOC_CHART: "True"

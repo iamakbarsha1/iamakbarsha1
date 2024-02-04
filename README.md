@@ -48,7 +48,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=iamakbarsha1&theme=github-dark&border_radius=5)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-
 ```rust
 From: 28 August 2022 - To: 03 February 2024
 
@@ -59,8 +58,10 @@ JSON            30 hrs 21 mins  >------------------------   03.86 %
 CSS             21 hrs 52 mins  >------------------------   02.78 %
 Other           11 hrs 19 mins  -------------------------   01.44 %
 ```
-
 <!--END_SECTION:waka-->
+
+<!--START_SECTION:waka_two-->
+<!--END_SECTION:waka_two-->
 
 <!-- [![Akbarsha's github stats](https://github-readme-stats.vercel.app/api?username=iamakbarsha1&show_icons=true&theme=transparent)](https://github.com/TheShubham-K/github-readme-stats) -->
 
