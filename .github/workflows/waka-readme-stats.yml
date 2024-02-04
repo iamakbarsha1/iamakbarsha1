@@ -23,7 +23,8 @@ on:
   workflow_dispatch:
   schedule:
     # runs at 12 AM UTC (5:30 AM IST) “At minute 45.” at 2024-02-03 12:45:00
-    - cron: "0 * * * *" # “At minute 0.” at 2024-02-03 13:00:00   
+    # - cron: "0 * * * *" # “At minute 0.” at 2024-02-03 13:00:00   
+    - cron: "1 * * * *" # “At minute 1.” at 2024-02-04 12:01:00
     # - cron: "0 0 * * *"
 
 jobs:
