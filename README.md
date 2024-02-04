@@ -62,7 +62,7 @@ Other           11 hrs 19 mins  -------------------------   01.44 %
 
 <!--END_SECTION:waka-->
 
-[![Akbarsha's github stats](https://github-readme-stats.vercel.app/api?username=iamakbarsha1&show_icons=true&theme=transparent)](https://github.com/TheShubham-K/github-readme-stats)
+<!-- [![Akbarsha's github stats](https://github-readme-stats.vercel.app/api?username=iamakbarsha1&show_icons=true&theme=transparent)](https://github.com/TheShubham-K/github-readme-stats) -->
 
 
 <!-- * * * ? * *    Every second
