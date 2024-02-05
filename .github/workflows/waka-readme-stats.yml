@@ -31,14 +31,20 @@ jobs:
   update-readme:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v2
+
+      - name: Set up Node.js 20
+        uses: actions/setup-node@v3
         with:
-          # Specify the desired version of Node.js (e.g., 14, 16, or 20)
-          node-version: 20
-        # this action name
-      # - uses: iamakbarsha1/waka-readme-stats@main
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm install
+
       - name: Update WakaReadme Stats
         uses: athul/waka-readme@master # do NOT replace with anything else
         with:
