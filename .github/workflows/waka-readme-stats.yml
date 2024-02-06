@@ -22,9 +22,7 @@ on:
   # for manual workflow trigger
   workflow_dispatch:
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST) “At minute 45.” at 2024-02-03 12:45:00
-    # - cron: "0 * * * *" # “At minute 0.” at 2024-02-03 13:00:00   
-    - cron: "15 * * * *"
+    - cron: "0 0 * * *" # once a day
 
 jobs:
   update-readme:
@@ -73,13 +71,13 @@ jobs:
           AUTHOR_NAME: Akbarsha # optional
           AUTHOR_EMAIL: ${{ secrets.MY_EMAIL }}, # optional
           # you can populate email-id with secretes instead
-      # - name: Update WakaReadme Stats (Two)
-      #   uses: anmol098/waka-readme-stats@master
-      #   with:
-      #     WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-      #     # GH_TOKEN: ${{ secrets.GH_TOKEN }}
-      #     SECTION_NAME: waka_two
-      #     SHOW_OS: true
-      #     SHOW_LANGUAGE: true
-      #     SHOW_PROJECTS: true
-      #     SHOW_LOC_CHART: true
+      - name: Update WakaReadme Stats (Two)
+        uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SECTION_NAME: waka_two
+          SHOW_OS: true
+          SHOW_LANGUAGE: true
+          SHOW_PROJECTS: true
+          SHOW_LOC_CHART: true
