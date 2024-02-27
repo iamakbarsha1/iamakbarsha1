@@ -34,6 +34,12 @@ Other           11 hrs 27 mins  -------------------------   01.44 %
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=iamakbarsha1&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
+
+<!-- <details>
+
+![GitHub stats](https://github.com/iamakbarsha1/iamakbarsha1/blob/metrics/github-metrics.svg)
+</details> -->
+
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
