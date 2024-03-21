@@ -40,6 +40,12 @@ Other           11 hrs 27 mins  -------------------------   01.44 %
 ![GitHub stats](https://github.com/iamakbarsha1/iamakbarsha1/blob/metrics/github-metrics.svg)
 </details> -->
 
+###
+
+<img src="https://raw.githubusercontent.com/iamakbarsha1/iamakbarsha1/output/snake.svg" alt="Snake animation" />
+
+###
+
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
