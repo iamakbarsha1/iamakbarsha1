@@ -22,7 +22,8 @@ on:
   # for manual workflow trigger
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *" # once a day
+    # - cron: "0 0 * * *" # once a day
+    - cron: "17 13 * * 2" # “At 13:17 on Tuesday.” - next @  at 2024-03-26 13:17:00
 
 jobs:
   update-readme:
