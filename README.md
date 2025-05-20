@@ -20,14 +20,14 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 28 August 2022 - To: 12 May 2025
+From: 28 August 2022 - To: 19 May 2025
 
-Total Time: 1,147 hrs 56 mins
+Total Time: 1,150 hrs 17 mins
 
-JavaScript        918 hrs 54 mins >>>>>>>>>>>>>>>>>>>>-----   78.81 %
-TypeScript        103 hrs 49 mins >>-----------------------   08.90 %
-JSON              38 hrs 56 mins  >------------------------   03.34 %
-CSS               25 hrs 30 mins  >------------------------   02.19 %
+JavaScript        920 hrs 49 mins >>>>>>>>>>>>>>>>>>>>-----   78.81 %
+TypeScript        103 hrs 49 mins >>-----------------------   08.89 %
+JSON              38 hrs 56 mins  >------------------------   03.33 %
+CSS               25 hrs 30 mins  >------------------------   02.18 %
 Other             18 hrs 6 mins   -------------------------   01.55 %
 ```
 
